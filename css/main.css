@@ -232,6 +232,10 @@ h3{
   text-decoration:none;
 }
 
+.project_wrap{
+  float:left;
+}
+
 .projects_wrap a:hover{
   color:blue
 }
